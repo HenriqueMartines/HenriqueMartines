@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=%20%20%20Henrique&fontAlign=50&fontAlignY=40&color=0:00c6ff,100:0072ff&fontColor=ffffff&fontSize=30" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=%20Bem%20Vindos%20ao%20meu%20Git%20Hub!&fontAlign=50&fontAlignY=40&color=0:00c6ff,100:0072ff&fontColor=ffffff&fontSize=30" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Estudante+de+Desenvolvimento+de+Sistemas;Cursando+SENAI;Aprendendo+e+criando+projetos" />
